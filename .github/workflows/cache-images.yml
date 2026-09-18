@@ -1,0 +1,25 @@
+name: Cache trip images
+on:
+  push:
+    paths:
+      - '.github/workflows/cache-images.yml'
+permissions:
+  contents: write
+jobs:
+  cache:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download images
+        run: |
+          set -e
+          mkdir -p assets
+          curl -fL --retry 3 -A 'Mozilla/5.0' 'https://img.dahepiao.com/uploads/image/2024/03/15/c78bfc8eed087cf781c1526f83530875.png' -o assets/yuntai.png
+          curl -fL --retry 3 -A 'Mozilla/5.0' 'https://tour.jschina.com.cn/lyzx/202009/W020200925532987968729.jpg' -o assets/bajianfang.jpg
+          curl -fL --retry 3 -A 'Mozilla/5.0' 'https://images.igaofu.com/2025/05/09/202505091158436469.jpg' -o assets/senbo.jpg
+          curl -fL --retry 3 -A 'Mozilla/5.0' 'https://d.ifengimg.com/q100/img1.ugc.ifeng.com/newugc/20220126/19/wemedia/c4d75c100942b2936a6fd5dc27cf7868120b2b22_size74_w1009_h500.jpeg' -o assets/wanpingkou.jpg
+          git config user.name 'trip-bot'
+          git config user.email 'trip-bot@users.noreply.github.com'
+          git add assets
+          git commit -m 'Cache trip images locally' || exit 0
+          git push
