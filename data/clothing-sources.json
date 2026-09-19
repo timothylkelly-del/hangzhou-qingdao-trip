@@ -1,0 +1,40 @@
+{
+  "checked_on": "2026-09-20",
+  "purpose": "V12 clothing guidance for 2026-09-27 to 2026-10-07; quantities and condition bands are editorial packing suggestions, not forecasts or official clothing standards.",
+  "sources": [
+    {
+      "id": "clothes-layering",
+      "title": "一日两季！全国乱穿衣预警地图来了 看哪里短袖外套齐上阵",
+      "publisher": "中国天气网 / 中国气象局公共气象服务门户网站",
+      "url": "https://m.weather.com.cn/news/2026/09/4794599.shtml",
+      "published_at": "2026-09-16 17:05:58",
+      "supports": "薄内层、保暖中层、防风防雨外层，随温度和活动增减。",
+      "limitation": "文章天气针对2026-09-17至19日；本项目仅采用通用穿衣方法，不沿用该文预报到旅行日期。"
+    },
+    {
+      "id": "clothes-index",
+      "title": "穿衣指数说明",
+      "publisher": "中国天气网",
+      "url": "https://www.weather.com.cn/forecast/cts.html",
+      "supports": "穿衣指数综合天气、气温、湿度和风等条件。",
+      "limitation": "本项目的温度分档是便于家人使用的建议，未声称为此页面发布的官方分级。"
+    },
+    {
+      "id": "clothes-wind",
+      "title": "Understanding Wind Chill",
+      "publisher": "NOAA National Weather Service",
+      "url": "https://www.weather.gov/safety/cold-wind-chill-chart",
+      "supports": "风加快裸露皮肤散热；儿童和长者需更谨慎。",
+      "limitation": "NWS风寒指数仅定义于气温不高于50°F（10℃）且风速超过3mph；本项目不以该公式推算秋季海边体感，也不把穿衣建议当海况判断。"
+    },
+    {
+      "id": "clothes-child-seat",
+      "title": "Winter Car Seat Safety Tips: Keeping Kids Safe & Warm",
+      "publisher": "American Academy of Pediatrics / HealthyChildren.org",
+      "url": "https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Winter-Car-Seat-Safety-Tips.aspx",
+      "updated_at": "2025-02-28",
+      "supports": "蓬松厚外套不穿在儿童安全座椅约束带下；薄层穿着，扣紧后可把外套或毯子加在带外；不增加未获允许的厚垫。",
+      "limitation": "只采用约束带安全原则，不暗示旅行期间为冬季；仍按实际儿童座椅说明书和儿童身材使用。"
+    }
+  ]
+}

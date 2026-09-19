@@ -1,0 +1,130 @@
+{
+  "verified_on": "2026-09-19",
+  "photos": [
+    {
+      "id": "day1-bajianfang",
+      "place": "连云港宿城八间房民宿",
+      "width": 1920,
+      "height": 1080,
+      "source_title": "寻找最美民宿 | 依山旧石生野趣，闲云常驻八间房",
+      "source_url": "https://tour.jschina.com.cn/lyzx/202009/t20200925_2636005.shtml",
+      "image_url": "https://tour.jschina.com.cn/lyzx/202009/W020200925774203434122.jpg",
+      "attribution": "新江苏·中国江苏网；照片为受访者提供",
+      "published": "2020-09-25",
+      "evidence": "报道标题及正文明确指宿城八间房；图片的原文图注为“石砖旧瓦砌成的院落（受访者提供）”。",
+      "visual": "石砌院墙、木亭、红灯笼、蓝天，非汽车，无可见水印。",
+      "crop": "建筑主要在左侧，object-position: 40% 50% 可用。",
+      "bytes": 333015,
+      "sha256": "912b277087894f87ebd9c89d0bde3c26479da07978a4dcd09d2984c40c0517b5",
+      "file": "assets/review-bajianfang.jpg"
+    },
+    {
+      "id": "day2-haishang-yuntaishan",
+      "place": "江苏连云港海上云台山",
+      "width": 1080,
+      "height": 687,
+      "source_title": "海上云台山景区（4A级）",
+      "source_url": "https://www.lyg.gov.cn/zglygzfmhwz/yzgc1/content/6449191b-e8e1-41b1-b46b-edfc3b3018cd.htm",
+      "image_url": "https://www.lyg.gov.cn/picture/8164f388-002a-4390-9960-23f3212f44d5.jpg",
+      "attribution": "连云港市人民政府；来源：市文广旅局",
+      "published": "2020-11-10",
+      "evidence": "政府景区介绍正文明确“位于连云区后云台山核心部位”，图片位于该景区图文正文中。",
+      "visual": "临海山坡、栈道、吊桥，桥上匾额“凌空踏浪”，无可见水印。",
+      "crop": "山、桥与海需兼顾，object-position: center 可用。",
+      "bytes": 117364,
+      "sha256": "f8ca4a584492760969e4166f1ccca4084e1150baf730e7e5881b8fc0d14d8021",
+      "file": "assets/review-yuntai.jpg"
+    },
+    {
+      "id": "day2-rizhao-senbo",
+      "place": "日照开元森泊度假乐园",
+      "width": 800,
+      "height": 600,
+      "source_title": "中旅国际参股企业旗下日照开元森泊度假乐园正式开业",
+      "source_url": "https://www.ctg.cn/article/19047",
+      "image_url": "https://www.ctg.cn/2025-05-13/18e1ffda-2122-4e81-b256-8386d53b12eb1747144748910.jpg",
+      "attribution": "中国旅游集团；来源：中旅国际",
+      "published": "2025-05-13",
+      "evidence": "报道标题和图片前的唯一主体均为日照开元森泊，正文明确第六家乐园，包含海滨度假、树屋及积木别墅。另品牌官方日照页 https://www.senboresorts.com/col.jsp?id=165 明确地址为山东日照万平口3号门。",
+      "visual": "海边特色树屋和成排别墅，远处海面，无可见水印。与杭州、莫干山树屋图无混用。",
+      "crop": "树屋居中右、海在上部，object-position: 58% 52% 可用。",
+      "bytes": 137965,
+      "sha256": "6a8da8e14bf9b583898833e473ba51199003d26fc6b3e8d9bd274be3ad0d4f17",
+      "file": "assets/review-senbo.jpg"
+    },
+    {
+      "id": "day3-wanpingkou",
+      "place": "日照万平口海滨风景区",
+      "width": 800,
+      "height": 584,
+      "source_title": "打开日照，翻阅一座城的生长——日照城市变迁里的光影叙事",
+      "source_url": "https://rbrk.rznews.cn/paper/s1/t1/rzrb/20260417/A06/t1_text01.html",
+      "image_url": "https://rbrk.rznews.cn/paper/s1/t1/rzrb/20260417/A06/A06_2727.jpg?v=1776387842314",
+      "attribution": "日照日报；全媒体记者 王敬之 摄",
+      "published": "2026-04-17",
+      "evidence": "原文第一图明确图注“万平口海滨风景区 全媒体记者 王敬之 摄”；不是下方1999年旧图。",
+      "visual": "万平口沙滩、海岸广场与城区，清晰可见地标塔/广场，无文字水印，但图片上缘有排版造成斜白边。",
+      "crop": "建议CSS在16:9图框设object-position:center bottom，可避开左上白边；不要把白边作为内容渲染。",
+      "bytes": 101047,
+      "sha256": "91783ccd8fe6f7c45e7369fd832ba1fc5a9d7dabc847ddae0a31312ce686136a",
+      "file": "assets/review-wanpingkou.jpg"
+    }
+  ],
+  "map": {
+    "coastline": "https://www.naturalearthdata.com/downloads/10m-physical-vectors/10m-land/",
+    "download": "https://naciscdn.org/naturalearth/10m/physical/ne_10m_land.zip",
+    "license": "Natural Earth public domain; OSM coordinate references attributed under ODbL",
+    "coordinate_reference": "WGS84; eight approximate area points, schematic trip order only, not a road or ferry track",
+    "points": [
+      {
+        "label": "杭州",
+        "lon": 120.205,
+        "lat": 30.249,
+        "meaning": "近似区域示意点，非门牌、停车入口或码头"
+      },
+      {
+        "label": "连云港宿城",
+        "lon": 119.423,
+        "lat": 34.707,
+        "meaning": "近似区域示意点，非门牌、停车入口或码头"
+      },
+      {
+        "label": "日照",
+        "lon": 119.56,
+        "lat": 35.42,
+        "meaning": "近似区域示意点，非门牌、停车入口或码头"
+      },
+      {
+        "label": "青岛",
+        "lon": 120.378,
+        "lat": 36.066,
+        "meaning": "近似区域示意点，非门牌、停车入口或码头"
+      },
+      {
+        "label": "莱州",
+        "lon": 119.942,
+        "lat": 37.177,
+        "meaning": "近似区域示意点，非门牌、停车入口或码头"
+      },
+      {
+        "label": "威海",
+        "lon": 122.121,
+        "lat": 37.513,
+        "meaning": "近似区域示意点，非门牌、停车入口或码头"
+      },
+      {
+        "label": "烟台",
+        "lon": 121.447,
+        "lat": 37.464,
+        "meaning": "近似区域示意点，非门牌、停车入口或码头"
+      },
+      {
+        "label": "大连",
+        "lon": 121.614,
+        "lat": 38.914,
+        "meaning": "近似区域示意点，非门牌、停车入口或码头"
+      }
+    ],
+    "version": 9
+  }
+}

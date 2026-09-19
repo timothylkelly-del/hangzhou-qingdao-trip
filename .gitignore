@@ -1,1 +1,9 @@
 .DS_Store
+__pycache__/
+*.pyc
+dist/
+docs/
+REVIEW.md
+data/weather-south.json
+data/weather-north.json
+assets/photos/*contactsheet.jpg

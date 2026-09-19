@@ -1,0 +1,425 @@
+[
+  {
+    "id": "north-naxianghai",
+    "file": "assets/photos/north-naxianghai.jpg",
+    "place": "那香海海水浴场",
+    "category": "景区",
+    "title": "把午后的风留给这片海",
+    "caption": "荣成可选支线：看海、坐一会儿就很好；图为夏日实景，不代表出游时可下水。",
+    "source_url": "https://www.weihai.gov.cn/art/2024/7/4/art_58817_4713527.html",
+    "image_url": "https://www.weihai.gov.cn/picture/-1/240704153045578177.jpg",
+    "attribution": "威海市政府 / 威海新闻网；朱春晓、马连将",
+    "license_note": "来源网页未标注开放许可；用于本地审阅，公开发布前需另行核实授权或替换。",
+    "alt": "那香海海水浴场实景：把午后的风留给这片海",
+    "city": "威海",
+    "day_numbers": [
+      7
+    ],
+    "width": 640,
+    "height": 372,
+    "bytes": 90107
+  },
+  {
+    "id": "north-weihai-sunset",
+    "file": "assets/photos/north-weihai-sunset.jpg",
+    "place": "威海国际海水浴场",
+    "category": "城市风貌",
+    "title": "一家人等一场海上落日",
+    "caption": "威海海滨可选短停，陪长者找到近停车点的休息处；轮椅可达动线仍需核实。",
+    "source_url": "https://www.weihai.gov.cn/art/2024/7/4/art_58817_4713527.html",
+    "image_url": "https://www.weihai.gov.cn/picture/-1/240704153046235108.jpg",
+    "attribution": "威海市政府 / 威海新闻网；朱春晓、马连将",
+    "license_note": "来源网页未标注开放许可；用于本地审阅，公开发布前需另行核实授权或替换。",
+    "alt": "威海国际海水浴场实景：一家人等一场海上落日",
+    "city": "威海",
+    "day_numbers": [
+      6,
+      7
+    ],
+    "width": 640,
+    "height": 480,
+    "bytes": 82108
+  },
+  {
+    "id": "north-weihai-seapark",
+    "file": "assets/photos/north-weihai-seapark.jpg",
+    "place": "威海海上公园",
+    "category": "城市风貌",
+    "title": "城和海之间的一点留白",
+    "caption": "城市海岸风貌资料图；选择酒店附近已核实平整的短线，不照着照片安排长距离步行。",
+    "source_url": "https://www.weihai.gov.cn/art/2014/5/23/art_58854_1738890.html",
+    "image_url": "https://www.weihai.gov.cn/picture/-1/180820115336668619.jpg",
+    "attribution": "威海市政府「威海影像」",
+    "license_note": "来源网页未标注开放许可；用于本地审阅，公开发布前需另行核实授权或替换。",
+    "alt": "威海海上公园实景：城和海之间的一点留白",
+    "city": "威海",
+    "day_numbers": [
+      6,
+      7
+    ],
+    "width": 580,
+    "height": 387,
+    "bytes": 71552
+  },
+  {
+    "id": "north-liugong-island",
+    "file": "assets/photos/north-liugong-island.jpg",
+    "place": "刘公岛",
+    "category": "景区",
+    "title": "松林和海，把历史轻轻围住",
+    "caption": "刘公岛2026年9月实景；只有码头、船舶、景交、展厅与卫生间的轮椅衔接确认后才选。",
+    "source_url": "https://www.news.cn/photo/20260907/613285585e444365917d2de62aca601a/c.html",
+    "image_url": "https://www.news.cn/photo/20260907/613285585e444365917d2de62aca601a/20260907613285585e444365917d2de62aca601a_202609079d64b43f29e048dab3af535031a8c416.jpg",
+    "attribution": "新华社 / 朱峥",
+    "license_note": "来源网页未标注开放许可；用于本地审阅，公开发布前需另行核实授权或替换。",
+    "alt": "刘公岛实景：松林和海，把历史轻轻围住",
+    "city": "威海",
+    "day_numbers": [
+      7
+    ],
+    "width": 1024,
+    "height": 576,
+    "bytes": 149218
+  },
+  {
+    "id": "north-yantaishan-night",
+    "file": "assets/photos/north-yantaishan-night.jpg",
+    "place": "烟台山夜景",
+    "category": "城市风貌",
+    "title": "在港城，看一盏灯亮起来",
+    "caption": "烟台山与港城夜色资料图；转场日以休息和运车核对为主，看夜景为有余力时短停。",
+    "source_url": "https://www.yantai.gov.cn/art/2018/7/25/art_11765_1385542.html",
+    "image_url": "https://www.yantai.gov.cn/cms_files/complat3/49/picture/202512/305078bd7dce44ca85424faa50de2b63.jpg",
+    "attribution": "烟台市政府「烟台山夜景」",
+    "license_note": "来源网页未标注开放许可；用于本地审阅，公开发布前需另行核实授权或替换。",
+    "alt": "烟台山夜景实景：在港城，看一盏灯亮起来",
+    "city": "烟台",
+    "day_numbers": [
+      8
+    ],
+    "width": 500,
+    "height": 500,
+    "bytes": 77489
+  },
+  {
+    "id": "north-yantai-crescent",
+    "file": "assets/photos/north-yantai-crescent.jpg",
+    "place": "烟台月亮湾",
+    "category": "城市风貌",
+    "title": "把港城的海风装进回忆",
+    "caption": "月亮湾是烟台城市风貌参考，可选近停车点短停；不为打卡挤掉午休和港口手续。",
+    "source_url": "https://www.yantai.gov.cn/art/2023/10/7/art_43277_3150139.html?xxgkhide=1",
+    "image_url": "https://www.yantai.gov.cn/cms_files/jcms1/web1/site/picture/-1/231007120625518563.jpg",
+    "attribution": "烟台市政府 / 烟台市文化和旅游局",
+    "license_note": "来源网页未标注开放许可；用于本地审阅，公开发布前需另行核实授权或替换。",
+    "alt": "烟台月亮湾实景：把港城的海风装进回忆",
+    "city": "烟台",
+    "day_numbers": [
+      8
+    ],
+    "width": 801,
+    "height": 1200,
+    "bytes": 238694
+  },
+  {
+    "id": "north-bohai-ferry",
+    "file": "assets/photos/north-bohai-ferry.jpg",
+    "place": "渤海翠珠客滚船",
+    "category": "交通",
+    "title": "穿过一片海，再打开一座城",
+    "caption": "渤海轮渡官网实船展示，仅作船舶环境参考；不是已订船型，新能源车仍须确认专船运车与客船衔接。",
+    "source_url": "https://www.bhferry.com/html/bohaicuizhu/",
+    "image_url": "https://www.bhferry.com/uploads/allimg/240810/1_2346362691.png",
+    "attribution": "渤海轮渡集团股份有限公司",
+    "license_note": "来源网页未标注开放许可；用于本地审阅，公开发布前需另行核实授权或替换。",
+    "alt": "渤海翠珠客滚船实景：穿过一片海，再打开一座城",
+    "city": "烟台",
+    "day_numbers": [
+      9
+    ],
+    "width": 582,
+    "height": 400,
+    "bytes": 41213
+  },
+  {
+    "id": "north-dalian-square",
+    "file": "assets/photos/north-dalian-square.jpg",
+    "place": "大连星海广场",
+    "category": "城市风貌",
+    "title": "山海相拥，抵达大连",
+    "caption": "星海广场2024年6月航拍。全团只选近停车点短停，照片不等于轮椅通行证明。",
+    "source_url": "https://www.xinhuanet.com/photo/20240822/53be3bd52e0646fe96542bb5d16a8516/c.html",
+    "image_url": "https://www.xinhuanet.com/photo/20240822/53be3bd52e0646fe96542bb5d16a8516/2024082253be3bd52e0646fe96542bb5d16a8516_2024082280fb56b3464a4fda837125f42517034d.jpg",
+    "attribution": "新华社 / 杨青",
+    "license_note": "来源网页未标注开放许可；用于本地审阅，公开发布前需另行核实授权或替换。",
+    "alt": "大连星海广场实景：山海相拥，抵达大连",
+    "city": "大连",
+    "day_numbers": [
+      10
+    ],
+    "width": 1024,
+    "height": 603,
+    "bytes": 127417
+  },
+  {
+    "id": "north-dalian-bay",
+    "file": "assets/photos/north-dalian-bay.jpg",
+    "place": "大连星海湾",
+    "category": "城市风貌",
+    "title": "在海湾边，把时间放慢",
+    "caption": "星海湾2024年5月实景；可留一段海景时光，家属返杭交通优先于任何加项。",
+    "source_url": "https://www.xinhuanet.com/photo/20240822/53be3bd52e0646fe96542bb5d16a8516/c.html",
+    "image_url": "https://www.xinhuanet.com/photo/20240822/53be3bd52e0646fe96542bb5d16a8516/2024082253be3bd52e0646fe96542bb5d16a8516_20240822bf0448a0ecc64c489d0d3b552c93d017.jpg",
+    "attribution": "新华社 / 石枫",
+    "license_note": "来源网页未标注开放许可；用于本地审阅，公开发布前需另行核实授权或替换。",
+    "alt": "大连星海湾实景：在海湾边，把时间放慢",
+    "city": "大连",
+    "day_numbers": [
+      10
+    ],
+    "width": 1024,
+    "height": 681,
+    "bytes": 92918
+  },
+  {
+    "id": "north-dalian-bridge",
+    "file": "assets/photos/north-dalian-bridge.jpg",
+    "place": "大连星海湾大桥",
+    "category": "城市风貌",
+    "title": "海面上，一道向远方的弧线",
+    "caption": "2024年6月航拍，只作城市与自驾风景参考；不可在桥面停车拍照。",
+    "source_url": "https://www.xinhuanet.com/photo/20240822/53be3bd52e0646fe96542bb5d16a8516/c.html",
+    "image_url": "https://www.xinhuanet.com/photo/20240822/53be3bd52e0646fe96542bb5d16a8516/2024082253be3bd52e0646fe96542bb5d16a8516_202408221491dd9e0e53462bb54f6a24ee32318a.jpg",
+    "attribution": "新华社 / 龙雷",
+    "license_note": "来源网页未标注开放许可；用于本地审阅，公开发布前需另行核实授权或替换。",
+    "alt": "大连星海湾大桥实景：海面上，一道向远方的弧线",
+    "city": "大连",
+    "day_numbers": [
+      10
+    ],
+    "width": 1003,
+    "height": 564,
+    "bytes": 108614
+  },
+  {
+    "id": "north-dalian-donggang",
+    "file": "assets/photos/north-dalian-donggang.jpg",
+    "place": "大连东港商务区",
+    "category": "城市风貌",
+    "title": "海鸥、海风和一次自在的散步",
+    "caption": "东港海滨2024年4月实景；东部可选短线，不与星海西部的活动在半天内堆叠。",
+    "source_url": "https://www.xinhuanet.com/photo/20240822/53be3bd52e0646fe96542bb5d16a8516/c.html",
+    "image_url": "https://www.xinhuanet.com/photo/20240822/53be3bd52e0646fe96542bb5d16a8516/2024082253be3bd52e0646fe96542bb5d16a8516_20240822b8c476a16a474c1d9e44c71f8e929f63.jpg",
+    "attribution": "新华社 / 李钢",
+    "license_note": "来源网页未标注开放许可；用于本地审阅，公开发布前需另行核实授权或替换。",
+    "alt": "大连东港商务区实景：海鸥、海风和一次自在的散步",
+    "city": "大连",
+    "day_numbers": [
+      10
+    ],
+    "width": 1024,
+    "height": 701,
+    "bytes": 166110
+  },
+  {
+    "id": "north-dalian-museum",
+    "file": "assets/photos/north-dalian-museum.jpg",
+    "place": "大连自然博物馆",
+    "category": "景区",
+    "title": "把海洋的故事讲给宝宝听",
+    "caption": "黑石礁馆舍官方资料图；建议短看45—90分钟，先确认入口、电梯、卫生间和开放信息。",
+    "source_url": "https://www.ln.gov.cn/web/ywdt/zymtkln/2023060615473628874/",
+    "image_url": "https://www.ln.gov.cn/web/fileDir/resource/cms/2023/06/2023060615473519566.jpg",
+    "attribution": "大连自然博物馆供图 / 人民日报海外版 / 辽宁省政府",
+    "license_note": "来源网页未标注开放许可；用于本地审阅，公开发布前需另行核实授权或替换。",
+    "alt": "大连自然博物馆实景：把海洋的故事讲给宝宝听",
+    "city": "大连",
+    "day_numbers": [
+      10
+    ],
+    "width": 400,
+    "height": 236,
+    "bytes": 30925
+  },
+  {
+    "id": "north-dalian-whale",
+    "file": "assets/photos/north-dalian-whale.jpg",
+    "place": "大连自然博物馆长须鲸标本",
+    "category": "景区",
+    "title": "走进展厅，遇见海洋巨人",
+    "caption": "馆方提供的长须鲸标本资料图；围绕两三件孩子感兴趣的展品即可，不要求逛完整馆。",
+    "source_url": "https://www.ln.gov.cn/web/ywdt/zymtkln/2023060615473628874/",
+    "image_url": "https://www.ln.gov.cn/web/fileDir/resource/cms/2023/06/2023060615473415990.jpg",
+    "attribution": "大连自然博物馆供图 / 人民日报海外版 / 辽宁省政府",
+    "license_note": "来源网页未标注开放许可；用于本地审阅，公开发布前需另行核实授权或替换。",
+    "alt": "大连自然博物馆长须鲸标本实景：走进展厅，遇见海洋巨人",
+    "city": "大连",
+    "day_numbers": [
+      10
+    ],
+    "width": 400,
+    "height": 240,
+    "bytes": 37190
+  },
+  {
+    "id": "north-dalian-panda",
+    "file": "assets/photos/north-dalian-panda.jpg",
+    "place": "大连森林动物园熊猫馆",
+    "category": "景区",
+    "title": "让宝宝有一场动物小探险",
+    "caption": "园方提供的熊猫实景资料图；动物园只供体力适合者自愿分组，展区与动物状态以当天为准。",
+    "source_url": "https://news.cnr.cn/local/dftj/20230120/t20230120_526132469.shtml",
+    "image_url": "https://mediabluk.cnr.cn/img/cnr/CNRCDP/2023/0120/a4ed53d9cf618167420051037438968110.jpg?auth=f8ce5fb4a41600af18da7afeed9db737",
+    "attribution": "大连森林动物园供图 / 央广网",
+    "license_note": "来源网页未标注开放许可；用于本地审阅，公开发布前需另行核实授权或替换。",
+    "alt": "大连森林动物园熊猫馆实景：让宝宝有一场动物小探险",
+    "city": "大连",
+    "day_numbers": [
+      10
+    ],
+    "width": 1500,
+    "height": 1000,
+    "bytes": 198745
+  },
+  {
+    "id": "north-rongcheng-zoo",
+    "file": "assets/photos/north-rongcheng-zoo.jpg",
+    "place": "西霞口神雕山野生动物世界",
+    "category": "景区",
+    "title": "面朝大海，看动物的小世界",
+    "caption": "园方实景资料图；荣成动物园为自愿分组替换项目，不列外婆轮椅全团默认路线。",
+    "source_url": "https://www.xixiakou.com/xxkta/52.html",
+    "image_url": "https://pmoe55880-pic4.ysjianzhan.cn/upload/7egx.png",
+    "attribution": "西霞口旅游区官网",
+    "license_note": "来源网页未标注开放许可；用于本地审阅，公开发布前需另行核实授权或替换。",
+    "alt": "西霞口神雕山野生动物世界实景：面朝大海，看动物的小世界",
+    "city": "威海",
+    "day_numbers": [
+      7
+    ],
+    "width": 364,
+    "height": 206,
+    "bytes": 29794
+  },
+  {
+    "id": "north-rongcheng-animal",
+    "file": "assets/photos/north-rongcheng-animal.jpg",
+    "place": "西霞口神雕山野生动物世界",
+    "category": "景区",
+    "title": "把好奇心留给动物朋友",
+    "caption": "园方实景资料图，动物种类、展区和开放以当天为准；观察为主，不安排贴身互动。",
+    "source_url": "https://www.xixiakou.com/xxkta/52.html",
+    "image_url": "https://pmoe55880-pic4.ysjianzhan.cn/upload/t1gy.png",
+    "attribution": "西霞口旅游区官网",
+    "license_note": "来源网页未标注开放许可；用于本地审阅，公开发布前需另行核实授权或替换。",
+    "alt": "西霞口神雕山野生动物世界实景：把好奇心留给动物朋友",
+    "city": "威海",
+    "day_numbers": [
+      7
+    ],
+    "width": 364,
+    "height": 206,
+    "bytes": 20126
+  },
+  {
+    "id": "north-dalian-laohutan",
+    "file": "assets/photos/north-dalian-laohutan.jpg",
+    "place": "老虎滩极地馆",
+    "category": "景区",
+    "title": "孩子眼里的蓝色海洋",
+    "caption": "老虎滩官网场馆资料图；作为动物园的择一替代，先确认场馆、电梯、轮椅动线。",
+    "source_url": "https://www.laohutan.com.cn/content.php?id=13",
+    "image_url": "https://www.laohutan.com.cn/webedit/UploadFile/2017824215121540.jpg",
+    "attribution": "大连老虎滩海洋公园官网",
+    "license_note": "来源网页未标注开放许可；用于本地审阅，公开发布前需另行核实授权或替换。",
+    "alt": "老虎滩极地馆实景：孩子眼里的蓝色海洋",
+    "city": "大连",
+    "day_numbers": [
+      10
+    ],
+    "width": 711,
+    "height": 424,
+    "bytes": 118646
+  },
+  {
+    "id": "north-dalian-seal",
+    "file": "assets/photos/north-dalian-seal.jpg",
+    "place": "老虎滩海兽馆",
+    "category": "景区",
+    "title": "在海兽馆看见海洋生命",
+    "caption": "官网场馆实景资料图；不与动物园同日堆叠，全团是否参与仍依轮椅通行和返程时间决定。",
+    "source_url": "https://www.laohutan.com.cn/content.php?id=17",
+    "image_url": "https://www.laohutan.com.cn/uploadfile/image/20251111/20251111120227_52519.jpg",
+    "attribution": "大连老虎滩海洋公园官网",
+    "license_note": "来源网页未标注开放许可；用于本地审阅，公开发布前需另行核实授权或替换。",
+    "alt": "老虎滩海兽馆实景：在海兽馆看见海洋生命",
+    "city": "大连",
+    "day_numbers": [
+      10
+    ],
+    "width": 711,
+    "height": 424,
+    "bytes": 108459
+  },
+  {
+    "id": "north-weihai-haiyuan",
+    "file": "assets/photos/north-weihai-haiyuan.jpg",
+    "place": "海源公园",
+    "category": "景区",
+    "title": "在海源公园，停下来听一听海",
+    "caption": "海源公园官方媒体实景；可选短停看海，先核对停车点至观景处轮椅动线。",
+    "source_url": "https://www.whnews.cn/news/node/2026-05/02/content_7385814.htm",
+    "image_url": "https://www.whnews.cn/news/data/attachement/jpg/site2/20260502/9c5c8ebf618d2b5fd98905.jpg",
+    "attribution": "威海新闻网 / 威海市新闻传媒中心",
+    "license_note": "来源网页未标注开放许可；用于本地审阅，公开发布前需另行核实授权或替换。",
+    "alt": "威海海源公园海岸礁石与碧蓝海湾实景",
+    "city": "威海",
+    "day_numbers": [
+      6,
+      7
+    ],
+    "width": 652,
+    "height": 342,
+    "bytes": 68992
+  },
+  {
+    "id": "north-dalian-bangchuidao",
+    "file": "assets/photos/north-dalian-bangchuidao.jpg",
+    "place": "棒棰岛景区",
+    "category": "景区",
+    "title": "走到山海相依的地方",
+    "caption": "新华社2023年4月实景；大连东部可选景点，与东港择短线，通行条件与预约以出游日为准。",
+    "source_url": "https://www.news.cn/20250628/74deed826ea244f8bbe6f834bcb449c9/c.html",
+    "image_url": "https://www.news.cn/20250628/74deed826ea244f8bbe6f834bcb449c9/2025062874deed826ea244f8bbe6f834bcb449c9_2025062858611088fba24e67a7d85b809b4f0978.JPG",
+    "attribution": "新华社发 / 新华网",
+    "license_note": "来源网页未标注开放许可；用于本地审阅，公开发布前需另行核实授权或替换。",
+    "alt": "棒棰岛景区实景：走到山海相依的地方",
+    "city": "大连",
+    "day_numbers": [
+      10
+    ],
+    "width": 900,
+    "height": 506,
+    "bytes": 168794
+  },
+  {
+    "id": "north-yantai-coast",
+    "file": "assets/photos/north-yantai-coast.jpg",
+    "place": "烟台八角湾海岸",
+    "category": "城市风貌",
+    "title": "海岸铺开，港城也有从容的一面",
+    "caption": "烟台八角湾2025年10月航拍实景；作为城市海岸风貌欣赏，不新增绕行打卡要求，出港准备与休息优先。",
+    "source_url": "https://english.news.cn/20251109/6796f65b4e7d41c58d8851a77cc7151c/c.html",
+    "image_url": "https://english.news.cn/20251109/6796f65b4e7d41c58d8851a77cc7151c/202511096796f65b4e7d41c58d8851a77cc7151c_XxjpbeE000115_20251109_CBMFN0A003.JPG",
+    "attribution": "新华社 / 唐克（Tang Ke）",
+    "license_note": "来源网页未标注开放许可；用于本地审阅，公开发布前需另行核实授权或替换。",
+    "alt": "烟台八角湾海岸日景航拍，海边绿地、步道、白色地标建筑与城市天际线",
+    "width": 900,
+    "height": 506,
+    "city": "烟台",
+    "day_numbers": [
+      8
+    ],
+    "bytes": 118405
+  }
+]

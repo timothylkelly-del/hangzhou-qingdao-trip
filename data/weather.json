@@ -1,0 +1,392 @@
+{
+  "version": 12,
+  "checked_at": "2026-09-20T00:03:38+08:00",
+  "timezone": "Asia/Shanghai",
+  "trip_start": "2026-09-27",
+  "family_arrival_deadline": "2026-10-07",
+  "forecast_limit": "2026-10-03",
+  "forecast_kind": "8–15天趋势，不是确定天气；未覆盖的日期留空",
+  "sources": {
+    "杭州": {
+      "url": "https://wx.weather.com.cn/mweather15d/101210101.shtml",
+      "retrieved_at": "2026-09-20T00:03:04.120990+08:00",
+      "forecast_until": "2026-10-03",
+      "issue_time": null,
+      "snapshot": "docs/weather-20260920/101210101.html"
+    },
+    "连云港": {
+      "url": "https://wx.weather.com.cn/mweather15d/101191001.shtml",
+      "retrieved_at": "2026-09-20T00:03:04.123791+08:00",
+      "forecast_until": "2026-10-03",
+      "issue_time": null,
+      "snapshot": "docs/weather-20260920/101191001.html"
+    },
+    "日照": {
+      "url": "https://wx.weather.com.cn/mweather15d/101121501.shtml",
+      "retrieved_at": "2026-09-20T00:03:04.123008+08:00",
+      "forecast_until": "2026-10-03",
+      "issue_time": null,
+      "snapshot": "docs/weather-20260920/101121501.html"
+    },
+    "青岛": {
+      "url": "https://wx.weather.com.cn/mweather15d/101120201.shtml",
+      "retrieved_at": "2026-09-20T00:03:04.123399+08:00",
+      "forecast_until": "2026-10-03",
+      "issue_time": null,
+      "snapshot": "docs/weather-20260920/101120201.html"
+    },
+    "莱州": {
+      "url": "https://wx.weather.com.cn/mweather15d/101120502.shtml",
+      "retrieved_at": "2026-09-20T00:03:38+08:00",
+      "forecast_until": "2026-10-03",
+      "issue_time": null,
+      "snapshot": "data/weather-north.json#sources.莱州"
+    },
+    "威海": {
+      "url": "https://wx.weather.com.cn/mweather15d/101121301.shtml",
+      "retrieved_at": "2026-09-20T00:03:38+08:00",
+      "forecast_until": "2026-10-03",
+      "issue_time": null,
+      "snapshot": "data/weather-north.json#sources.威海"
+    },
+    "烟台": {
+      "url": "https://wx.weather.com.cn/mweather15d/101120501.shtml",
+      "retrieved_at": "2026-09-20T00:03:38+08:00",
+      "forecast_until": "2026-10-03",
+      "issue_time": null,
+      "snapshot": "data/weather-north.json#sources.烟台"
+    },
+    "大连": {
+      "url": "https://wx.weather.com.cn/mweather15d/101070201.shtml",
+      "retrieved_at": "2026-09-20T00:03:38+08:00",
+      "forecast_until": "2026-10-03",
+      "issue_time": null,
+      "snapshot": "data/weather-north.json#sources.大连"
+    }
+  },
+  "marine_sources": [
+    {
+      "name": "中央气象台近海海区预报",
+      "url": "https://www.nmc.cn/publish/marine/offshore.html"
+    },
+    {
+      "name": "渤海轮渡官方入口",
+      "url": "https://www.bhferry.com/"
+    }
+  ],
+  "days": [
+    {
+      "n": 1,
+      "date": "2026-09-27",
+      "route": "杭州 → 连云港宿城",
+      "locations": [
+        {
+          "city": "杭州",
+          "available": true,
+          "low_c": 25,
+          "high_c": 36,
+          "weather_day": "雨",
+          "weather_night": "多云",
+          "wind_day": "西南风 <3级",
+          "wind_night": "北风 <3级"
+        },
+        {
+          "city": "连云港",
+          "available": true,
+          "low_c": 21,
+          "high_c": 26,
+          "weather_day": "雨",
+          "weather_night": "雨",
+          "wind_day": "西南风 <3级",
+          "wind_night": "东北风 <3级",
+          "note": "宿城区域参考，非山顶预报"
+        }
+      ],
+      "clothes": "杭州段以轻薄上衣、透气长裤为起点，薄长袖和防雨外套随手放；到宿城若觉得凉再加层，不在暖车里一直穿厚衣。",
+      "care": "这天一家三口，宝宝换洗衣裤、内裤和袜子独立一袋；服务区下车前先看当地雨风。",
+      "backup": "雨量和时段临近再核对。遇雨保留尽早抵店、取消途中露天停留的方案；高温时减少户外暴晒，不把最高温当清晨出发气温。"
+    },
+    {
+      "n": 2,
+      "date": "2026-09-28",
+      "route": "宿城 / 海上云台山 → 日照",
+      "locations": [
+        {
+          "city": "连云港",
+          "available": true,
+          "low_c": 19,
+          "high_c": 27,
+          "weather_day": "阴",
+          "weather_night": "雨",
+          "wind_day": "东北风 <3级",
+          "wind_night": "东北风 <3级",
+          "note": "宿城区域参考，非山顶预报"
+        },
+        {
+          "city": "日照",
+          "available": true,
+          "low_c": 20,
+          "high_c": 26,
+          "weather_day": "多云",
+          "weather_night": "多云",
+          "wind_day": "北风 <3级",
+          "wind_night": "西南风 <3级"
+        }
+      ],
+      "clothes": "薄上衣＋方便活动的长裤、包脚鞋，防风雨外套随包；山上看体感加薄中层，下山暖和时脱掉。",
+      "care": "宝宝玩沙后用干袜和备用鞋；若玩酒店水项目，另装泳衣、擦干用品，不穿湿衣直接去海边。",
+      "backup": "景区若有雨、雾、雷电或关闭提示，就删登山早去日照；是否下雨按更新后的预报和现场情况决定。"
+    },
+    {
+      "n": 3,
+      "date": "2026-09-29",
+      "route": "日照 → 青岛站 · 14:34接G881",
+      "locations": [
+        {
+          "city": "日照",
+          "available": true,
+          "low_c": 18,
+          "high_c": 26,
+          "weather_day": "多云",
+          "weather_night": "阴",
+          "wind_day": "南风 <3级",
+          "wind_night": "南风 <3级"
+        },
+        {
+          "city": "青岛",
+          "available": true,
+          "low_c": 19,
+          "high_c": 26,
+          "weather_day": "阴",
+          "weather_night": "多云",
+          "wind_day": "南风 <3级",
+          "wind_night": "南风 <3级"
+        }
+      ],
+      "clothes": "日照出发薄长袖或薄上衣加可脱外层，青岛接站时按实际温度调整；外套别压在装满的后备厢底部。",
+      "care": "接站包准备外婆开衫、腿毯；让长辈在室内会合，宝宝不陪司机在风口等。",
+      "backup": "接站以正晚点与实时路况为先；若下雨，把露天午餐和海边短停删除。"
+    },
+    {
+      "n": 4,
+      "date": "2026-09-30",
+      "route": "青岛 · 轻松城市日",
+      "locations": [
+        {
+          "city": "青岛",
+          "available": true,
+          "low_c": 21,
+          "high_c": 23,
+          "weather_day": "阴",
+          "weather_night": "阴",
+          "wind_day": "南风 <3级",
+          "wind_night": "南风 <3级"
+        }
+      ],
+      "clothes": "薄长袖＋可脱的轻外套为起点，长裤和走惯的包脚鞋；沿海时防风层随身。",
+      "care": "外婆久坐加层按体感决定，宝宝跑热后减层、出汗换干；午间留回店休息。",
+      "backup": "阴天也不等于无风无雨。若海边不舒服，就切换已核实无台阶的室内候选或酒店活动。"
+    },
+    {
+      "n": 5,
+      "date": "2026-10-01",
+      "route": "青岛 → 莱州",
+      "locations": [
+        {
+          "city": "青岛",
+          "available": true,
+          "low_c": 20,
+          "high_c": 24,
+          "weather_day": "晴",
+          "weather_night": "多云",
+          "wind_day": "南风 <3级",
+          "wind_night": "南风 <3级"
+        },
+        {
+          "city": "莱州",
+          "available": true,
+          "low_c": 18,
+          "high_c": 25,
+          "weather_day": "晴",
+          "weather_night": "阴",
+          "wind_day": "东南风 <3级",
+          "wind_night": "南风 <3级"
+        }
+      ],
+      "clothes": "青岛与莱州目前高温都在24—25℃左右，穿轻薄层，早晚备开衫；去莱州海边再加防风层。",
+      "care": "长途坐车不穿勒腰紧裤，外婆腿毯放本车；两辆车各放本车成员的外套。",
+      "backup": "午后户外只作为到店后的弹性项；若下雨、风大或到达晚，改城区用餐与休息。"
+    },
+    {
+      "n": 6,
+      "date": "2026-10-02",
+      "route": "莱州 → 威海",
+      "locations": [
+        {
+          "city": "莱州",
+          "available": true,
+          "low_c": 16,
+          "high_c": 27,
+          "weather_day": "多云",
+          "weather_night": "阴",
+          "wind_day": "东南风 <3级",
+          "wind_night": "东南风 <3级"
+        },
+        {
+          "city": "威海",
+          "available": true,
+          "low_c": 17,
+          "high_c": 24,
+          "weather_day": "阴",
+          "weather_night": "阴",
+          "wind_day": "东南风 <3级",
+          "wind_night": "南风 <3级"
+        }
+      ],
+      "clothes": "莱州16—27℃的日温差趋势较大：出发备薄中层，到威海17—24℃先用长袖＋轻外套；按实际时段穿脱。",
+      "care": "宝宝外套易穿脱，外婆开衫和毯子随轮椅；升温时及时减层，不能按最低温把全天捂厚。",
+      "backup": "到威海后海边短走可删，先确保入住和休息；夜间若降雨，备选改室内。"
+    },
+    {
+      "n": 7,
+      "date": "2026-10-03",
+      "route": "威海 · 市区轻游 / 条件合适再上岛",
+      "locations": [
+        {
+          "city": "威海",
+          "available": true,
+          "low_c": 19,
+          "high_c": 23,
+          "weather_day": "阴",
+          "weather_night": "雨",
+          "wind_day": "南风 <3级",
+          "wind_night": "东北风 <3级"
+        }
+      ],
+      "clothes": "薄长袖、长裤，外层具防风防雨能力；保暖中层备用，夜间若下雨穿干爽外层再出门。",
+      "care": "外婆腿毯防潮，宝宝多留干袜；今晚可洗衣，但先问是否能在次日出发前烘干。",
+      "backup": "刘公岛以临近天气、船务和轮椅衔接确认决定；无论图标显示什么，遇风雨或关闭就改市区已核实可达的短线。"
+    },
+    {
+      "n": 8,
+      "date": "2026-10-04",
+      "route": "威海 → 烟台 · 过海准备",
+      "locations": [
+        {
+          "city": "威海",
+          "available": false,
+          "low_c": null,
+          "high_c": null,
+          "weather_day": null,
+          "weather_night": null,
+          "wind_day": null,
+          "wind_night": null
+        },
+        {
+          "city": "烟台",
+          "available": false,
+          "low_c": null,
+          "high_c": null,
+          "weather_day": null,
+          "weather_night": null,
+          "wind_day": null,
+          "wind_night": null
+        }
+      ],
+      "clothes": "预报待更新：先按层打包，薄长袖、可脱中层、防风雨外套都在随手包；当天具体穿几层临近再定。",
+      "care": "把宝宝干衣和外婆腿毯从大箱子移进随人小包；准备人车分开时也能独立过夜。",
+      "backup": "若恶劣天气影响跨海，不用穿厚衣硬等；提前启动山东返杭方案，保证3位家属10/7到杭州。"
+    },
+    {
+      "n": 9,
+      "date": "2026-10-05",
+      "route": "烟台 ⇢ 大连 · 人车运输分开核对",
+      "locations": [
+        {
+          "city": "烟台",
+          "available": false,
+          "low_c": null,
+          "high_c": null,
+          "weather_day": null,
+          "weather_night": null,
+          "wind_day": null,
+          "wind_night": null
+        },
+        {
+          "city": "大连",
+          "available": false,
+          "low_c": null,
+          "high_c": null,
+          "weather_day": null,
+          "weather_night": null,
+          "wind_day": null,
+          "wind_night": null
+        }
+      ],
+      "clothes": "预报待更新：码头准备防风层，船舱内可脱中层；干衣、睡衣、袜子、薄毯随人携带。",
+      "care": "外婆衣物与陪护同行，宝宝完整换洗1套随身；飞机组也不能把全部衣物留在车里。",
+      "backup": "烟台和大连城市天气、相关海区风浪、客船与运车船运行四项分别查；任一运输环节未落实，不把过海当成确定。"
+    },
+    {
+      "n": 10,
+      "date": "2026-10-06",
+      "route": "大连 · 轻游 / 3位家属优先提前返杭",
+      "locations": [
+        {
+          "city": "大连",
+          "available": false,
+          "low_c": null,
+          "high_c": null,
+          "weather_day": null,
+          "weather_night": null,
+          "wind_day": null,
+          "wind_night": null
+        },
+        {
+          "city": "杭州",
+          "available": false,
+          "low_c": null,
+          "high_c": null,
+          "weather_day": null,
+          "weather_night": null,
+          "wind_day": null,
+          "wind_night": null,
+          "optional": true
+        }
+      ],
+      "clothes": "预报待更新：大连游览保留长袖＋防风外套和可脱保暖层；6日返杭组同时准备杭州落地所需薄衣。",
+      "care": "太太、宝宝、妈妈的行李独立整理；宝宝安全座椅约束带下不穿蓬松厚外套，保暖盖在扣好的带外。",
+      "backup": "若6日提前返杭，删下午大景区优先接驳；若留大连到7日，遇风雨改室内并保持返程机动时间。"
+    },
+    {
+      "n": 11,
+      "date": "2026-10-07",
+      "route": "大连 → 杭州 · 太太、宝宝、妈妈最迟到家",
+      "locations": [
+        {
+          "city": "大连",
+          "available": false,
+          "low_c": null,
+          "high_c": null,
+          "weather_day": null,
+          "weather_night": null,
+          "wind_day": null,
+          "wind_night": null
+        },
+        {
+          "city": "杭州",
+          "available": false,
+          "low_c": null,
+          "high_c": null,
+          "weather_day": null,
+          "weather_night": null,
+          "wind_day": null,
+          "wind_night": null
+        }
+      ],
+      "clothes": "预报待更新：出发地和杭州各查落地/到站时段温度；薄层穿搭，雨具和一套干衣放随身行李。",
+      "care": "太太、宝宝、妈妈用独立返杭包，不依赖你的MEGA或其他亲属行李；抵杭后报平安。",
+      "backup": "10/7是到达期限。交通有变即看实际可售替代和总时长，不能假设取消后总有同日高铁；你带车返杭无这一天的期限。"
+    }
+  ]
+}

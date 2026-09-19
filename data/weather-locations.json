@@ -1,0 +1,57 @@
+{
+  "provider": "Open-Meteo",
+  "geocoding_source": "https://open-meteo.com/en/docs/geocoding-api",
+  "forecast_source": "https://open-meteo.com/en/docs",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "verified_on": "2026-09-20",
+  "cities": [
+    {
+      "name": "杭州",
+      "lat": 30.29365,
+      "lon": 120.16142,
+      "geonames_id": 1808926
+    },
+    {
+      "name": "连云港",
+      "lat": 34.59845,
+      "lon": 119.21556,
+      "geonames_id": 10859300
+    },
+    {
+      "name": "日照",
+      "lat": 35.41414,
+      "lon": 119.52908,
+      "geonames_id": 9072919
+    },
+    {
+      "name": "青岛",
+      "lat": 36.06488,
+      "lon": 120.38042,
+      "geonames_id": 1797929
+    },
+    {
+      "name": "莱州",
+      "lat": 37.18073,
+      "lon": 119.94217,
+      "geonames_id": 1804578
+    },
+    {
+      "name": "威海",
+      "lat": 37.50914,
+      "lon": 122.11356,
+      "geonames_id": 1791673
+    },
+    {
+      "name": "烟台",
+      "lat": 37.47649,
+      "lon": 121.44081,
+      "geonames_id": 1787093
+    },
+    {
+      "name": "大连",
+      "lat": 38.91222,
+      "lon": 121.60222,
+      "geonames_id": 1814087
+    }
+  ]
+}
